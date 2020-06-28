@@ -42,7 +42,7 @@ Front-end CRUD app using Vanilla JS mimicking a social media platform where user
 
 ## User Stories
 
-### Adding A Meal
+### Adding A Post
 
 |        Adding A Post         |          Post Added          |
 | :--------------------------: | :--------------------------: |
